@@ -2,6 +2,8 @@
 
 Web app (PWA) para o casal controlar as finanças juntos pelo iPhone: o que entra, o que sai, quando, quanto e em qual categoria — com painel interativo, projeção dos próximos meses e metas de poupança.
 
+**No ar:** https://financas-familia-delta-five.vercel.app (Vercel, projeto `financas-familia`) · banco Supabase `financas-familia` (São Paulo).
+
 ## O que o app faz
 
 | Área | O que entrega |
